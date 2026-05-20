@@ -110,8 +110,11 @@ Total_Guests INT);
 ## Revenue Analysis
 
 - Total Revenue
-- Revenue by Hotel Type
-- Revenue by Country
+- Total Bookings
+- Total Guests
+- RevPAR
+- Cancellation Rate
+- Average ADR
 
 ## Booking Analysis
 
