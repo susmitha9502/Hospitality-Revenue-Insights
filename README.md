@@ -100,8 +100,7 @@ Booking_Status VARCHAR(50),
 reservation_status_date DATE,
 Total_Nights INT,
 Revenue FLOAT,
-Total_Guests INT
-);
+Total_Guests INT);
 ```
 
 ---
